@@ -12,7 +12,7 @@ Founder of VAANISAI FM - It's my own web and mobile application. like a music ap
 * 🚀  I'm currently working on [VAANISAI](http://vaanisaifm.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Software Solutions who needs!
-* ⚡  :)
+* ⚡  Always Chill :)
 
 ### Skills
 
