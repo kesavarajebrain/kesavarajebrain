@@ -9,7 +9,7 @@ Founder of VAANISAI FM - It's my own web and mobile application. like a music ap
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [VAANISAI FM](http://vaanisaifm.com)
 * ✉️  You can contact me at [kesavarajtry@gmail.com](mailto:kesavarajtry@gmail.com)
-* 🚀  I'm currently working on [VAANISAI](http://vaanisaifm.com)
+* 🚀  I'm currently working on [Thinkpalm Technologies Pvt Ltd](https://thinkpalm.com/)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Software Solutions who needs!
 * ⚡  Always Chill :)
