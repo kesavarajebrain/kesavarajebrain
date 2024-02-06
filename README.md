@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Am KESAVARAJ 👨‍💻
 =================================================================================================================================
 
-Mean / Mern / Mobile App Developer
+MEAN / MERN / Mobile App Developer
 ---------------------------
 
 Founder of VAANISAI FM - It's my own web and mobile application. like a music application and also is the first exclusive online radio channel in tamilnadu.
