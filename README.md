@@ -33,6 +33,8 @@ Founder of VAANISAI FM - It's my own web and mobile application. like a music ap
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
     <a href="https://rxjs.dev/" target="_blank" rel="noreferrer"><img src="https://www.learnrxjs.io/~gitbook/image?url=https%3A%2F%2F1549117933-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-LwY_OXUQHvmdEoy0xNa%252Favatar.png%3Fgeneration%3D1579380746835203%26alt%3Dmedia&width=32&dpr=2&quality=100&sign=463dade902abeaf166aa622c46afd714241c5015a8f032e40810a8b75bc045e8" width="36" height="36" alt="RXJS" /></a>
+      <a href="https://ngrx.io/" target="_blank" rel="noreferrer"><img src="https://ngrx.io/assets/images/badge.svg
+" width="36" height="36" alt="NGRX" /></a>
 </p>
 
 
